@@ -4,6 +4,7 @@ from Feedback import feedback
 
 def kleur(antwoord):
     print('Antwoord:',antwoord)
+    
     tijd = 0
     gok = [1,1,1,1] #eerste gok
 
